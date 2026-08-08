@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: NewTest1Project
+  gitServerName: aadiacc
+  gitUrl: https://github.com/aadi-tripathi
+  gitUsername: aadi-tripathi
+  gitBranch: main
